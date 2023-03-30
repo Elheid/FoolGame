@@ -1,0 +1,15 @@
+C:\Users\maxxx\OneDrive\Рабочий стол\Дурак 1 сем\Дурак 1 сем\obj\Debug\net6.0\Дурак 1 сем.csproj.AssemblyReference.cache
+C:\Users\maxxx\OneDrive\Рабочий стол\Дурак 1 сем\Дурак 1 сем\obj\Debug\net6.0\Дурак 1 сем.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxxx\OneDrive\Рабочий стол\Дурак 1 сем\Дурак 1 сем\obj\Debug\net6.0\Дурак 1 сем.AssemblyInfoInputs.cache
+C:\Users\maxxx\OneDrive\Рабочий стол\Дурак 1 сем\Дурак 1 сем\obj\Debug\net6.0\Дурак 1 сем.AssemblyInfo.cs
+C:\Users\maxxx\OneDrive\Рабочий стол\Дурак 1 сем\Дурак 1 сем\obj\Debug\net6.0\Дурак 1 сем.csproj.CoreCompileInputs.cache
+C:\Users\maxxx\OneDrive\Рабочий стол\Дурак 1 сем\Дурак 1 сем\bin\Debug\net6.0\Дурак 1 сем.exe
+C:\Users\maxxx\OneDrive\Рабочий стол\Дурак 1 сем\Дурак 1 сем\bin\Debug\net6.0\Дурак 1 сем.deps.json
+C:\Users\maxxx\OneDrive\Рабочий стол\Дурак 1 сем\Дурак 1 сем\bin\Debug\net6.0\Дурак 1 сем.runtimeconfig.json
+C:\Users\maxxx\OneDrive\Рабочий стол\Дурак 1 сем\Дурак 1 сем\bin\Debug\net6.0\Дурак 1 сем.dll
+C:\Users\maxxx\OneDrive\Рабочий стол\Дурак 1 сем\Дурак 1 сем\bin\Debug\net6.0\Дурак 1 сем.pdb
+C:\Users\maxxx\OneDrive\Рабочий стол\Дурак 1 сем\Дурак 1 сем\obj\Debug\net6.0\Дурак 1 сем.dll
+C:\Users\maxxx\OneDrive\Рабочий стол\Дурак 1 сем\Дурак 1 сем\obj\Debug\net6.0\refint\Дурак 1 сем.dll
+C:\Users\maxxx\OneDrive\Рабочий стол\Дурак 1 сем\Дурак 1 сем\obj\Debug\net6.0\Дурак 1 сем.pdb
+C:\Users\maxxx\OneDrive\Рабочий стол\Дурак 1 сем\Дурак 1 сем\obj\Debug\net6.0\Дурак 1 сем.genruntimeconfig.cache
+C:\Users\maxxx\OneDrive\Рабочий стол\Дурак 1 сем\Дурак 1 сем\obj\Debug\net6.0\ref\Дурак 1 сем.dll
